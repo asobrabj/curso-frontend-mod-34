@@ -23,7 +23,7 @@
 - Rejeição
 _ Funil
 
-## Metodo AIDA
+## Método AIDA
 - Atenção
 - Interesse
 - Desejo
